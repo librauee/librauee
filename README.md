@@ -6,4 +6,6 @@
 - 🛵 I’m a new competitor of data science
 - 🚢 I’m looking for an internship job of data mining
 
-[![librauee's github stats](https://github-readme-stats.vercel.app/api?username=librauee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=librauee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![librauee's github stats](https://github-readme-stats.vercel.app/api?username=librauee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=librauee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
