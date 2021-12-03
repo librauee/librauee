@@ -8,6 +8,7 @@
 
 ### Awards 🏆
 
+- 2021 CCF Computing Intelligence Contest **1st**
 - 2021 ATEC Science and Technology Elite Competition **1st** 
 - 2021 DIGIX GLOBAL AI CHALLENGE **2nd**
 - 2021 Wechat Big Data Challenge **The first prize**
