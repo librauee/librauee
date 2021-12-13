@@ -15,7 +15,7 @@
 - 2021 CMB Elite Training Camp **1st** [article](https://mp.weixin.qq.com/s/b-W0YhXpqs0ICUNSPhn_og)
 - 2021 UMS Smart Payment Challenge **2nd** [code](https://github.com/librauee/YLSW) [article](https://mp.weixin.qq.com/s/mGpLnUcX5SVjaf4DobtRqg)
 - 2020 WAIC Global Industrial Internet Algorithm Competition **3rd**
-- 2020 CDH Computing Technology Competition **1st** [code](https://github.com/dengyin/MyCompetitions/tree/master/MoocCubeRank1)
+- 2020 CDH Computing Technology Competition **1st** [code](https://github.com/dengyin/MyCompetitions/tree/master/MoocCubeRank1) [video](https://www.bilibili.com/video/BV1ef4y1k7qF?spm_id_from=333.999.0.0)
 
 [![librauee's github stats](https://github-readme-stats.vercel.app/api?username=librauee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
