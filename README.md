@@ -10,10 +10,10 @@
 
 - 2021 CCF Computing Intelligence Contest **1st**
 - 2021 ATEC Science and Technology Elite Competition **1st** 
-- 2021 DIGIX GLOBAL AI CHALLENGE **2nd**
-- 2021 Wechat Big Data Challenge **The first prize**
+- 2021 DIGIX GLOBAL AI CHALLENGE **2nd**  [code]()
+- 2021 Wechat Big Data Challenge **The first prize** [code]()
 - 2021 CMB Elite Training Camp **1st**
-- 2021 UMS Smart Payment Challenge **2nd**
+- 2021 UMS Smart Payment Challenge **2nd** [code]()
 - 2020 WAIC Global Industrial Internet Algorithm Competition **3rd**
 - 2020 CDH Computing Technology Competition **1st**
 
