@@ -3,8 +3,11 @@
 - 🛸 I'm 老肥(librauee)
 - 🚀 I’m currently working on multimedia security
 - 🚅 I’m currently interested in ML, RS, CV, NLP
-- 🛵 I’m a new competitor of data science
+- 🛵 I’m an enthusiast of data science
 
+<p align="center"> 
+ <img src="https://profile-counter.glitch.me/librauee/count.svg"/>
+</p>
 
 ### Awards 🏆
 
