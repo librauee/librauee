@@ -9,7 +9,7 @@
  <img src="https://profile-counter.glitch.me/librauee/count.svg"/>
 </p>
 
-### Kaggle 
+### Kaggle 🔥
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/librauee/competition/light)
 
 ### Awards 🏆
