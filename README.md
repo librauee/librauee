@@ -14,7 +14,7 @@
 
 ### Awards 🏆
 
-- 2022 AIWIN World AI Innovation Competition**2nd**
+- 2022 AIWIN World AI Innovation Competition **2nd**
 - 2022 Kaggle Happywhale - Whale and Dolphin Identification **3rd** [discuss](https://www.kaggle.com/competitions/happy-whale-and-dolphin/discussion/319896)
 - 2021 Shandong Big Data Competition **2nd** [code](https://github.com/librauee/SD_ECG) [article](https://mp.weixin.qq.com/s/Zx0BZPKpap8XNDkyCFO4AA)
 - 2021 CCF Computing Intelligence Contest **1st** [code](https://github.com/zui0711/Z-Lab/tree/main/2021%20CCF%20BDCI/%E7%B3%BB%E7%BB%9F%E8%AE%A4%E8%AF%81%E9%A3%8E%E9%99%A9%E9%A2%84%E6%B5%8BRank1)  [article](https://mp.weixin.qq.com/s/8sR4apBPBfS1uHnpoZNwAA)
