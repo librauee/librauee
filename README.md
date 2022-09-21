@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🛸 I'm 老肥(librauee)
-- 🚀 I’m currently working on multimedia security
+- 🚀 I’m currently working as an algorithm engineer
 - 🚅 I’m currently interested in ML, RS, CV, NLP
 - 🛵 I’m an enthusiast of data science
 
