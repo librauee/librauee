@@ -14,6 +14,8 @@
 
 ### Awards 🏆
 
+- 2022 Green Computing Competition **1st**
+- 2022 IFLYTEK Developer Competition **1st&2nd&3rd**
 - 2022 AIWIN World AI Innovation Competition **2nd**
 - 2022 Kaggle Happywhale - Whale and Dolphin Identification **3rd** [discuss](https://www.kaggle.com/competitions/happy-whale-and-dolphin/discussion/319896)
 - 2021 Shandong Big Data Competition **2nd** [code](https://github.com/librauee/SD_ECG) [article](https://mp.weixin.qq.com/s/Zx0BZPKpap8XNDkyCFO4AA)
