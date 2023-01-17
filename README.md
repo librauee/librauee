@@ -14,6 +14,7 @@
 
 ### Awards 🏆
 
+- 2022 TIANCHI Imagine Computing **1st**
 - 2022 Green Computing Competition **1st**
 - 2022 IFLYTEK Developer Competition **1st&2nd&3rd**
 - 2022 AIWIN World AI Innovation Competition **2nd**
